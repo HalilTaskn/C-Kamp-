@@ -15,19 +15,19 @@ namespace _01_MainSubjects
 
 
 
-            //Console.WriteLine("Merhaba Dünya");
-            //Console.Write("selam");
+            Console.WriteLine("Merhaba Dünya");
+            Console.Write("selam");
 
-            //Console.WriteLine("***** Yemek Kategorileri *****");
-            //Console.WriteLine();
-            //Console.WriteLine("1-Çorbalar");
-            //Console.WriteLine("2-Ana Yemekler");
-            //Console.WriteLine("3-Soğuk Başlangıçlar");
-            //Console.WriteLine("4-Salatalar");
-            //Console.WriteLine("5-Tatlılar");
-            //Console.WriteLine("6-İçecekler");
-            //Console.WriteLine();
-            //Console.WriteLine("***** Yemek Kategorileri *****");
+            Console.WriteLine("***** Yemek Kategorileri *****");
+            Console.WriteLine();
+            Console.WriteLine("1-Çorbalar");
+            Console.WriteLine("2-Ana Yemekler");
+            Console.WriteLine("3-Soğuk Başlangıçlar");
+            Console.WriteLine("4-Salatalar");
+            Console.WriteLine("5-Tatlılar");
+            Console.WriteLine("6-İçecekler");
+            Console.WriteLine();
+            Console.WriteLine("***** Yemek Kategorileri *****");
 
             #endregion
 
@@ -35,14 +35,14 @@ namespace _01_MainSubjects
 
             #region StringDeğişkenler
 
-            //string
-            //Değişken_Türü Değişken_Adı;
+            string
+            Değişken_Türü Değişken_Adı;
 
 
 
-            //string name;
-            //name = "Halil ";
-            //Console.Write(name);
+            string name;
+            name = "Halil ";
+            Console.Write(name);
 
 
             string customerName;
@@ -91,8 +91,8 @@ namespace _01_MainSubjects
 
             #region   Int Değişkenler
 
-            //int number = 61;
-            //Console.WriteLine(number);
+            int number = 61;
+            Console.WriteLine(number);
 
 
             int hamburgerPrice = 350;
