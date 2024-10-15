@@ -1,0 +1,7 @@
+C:\Users\kaize\Desktop\CSharpEgitimKampi\07_Foreach_Döngüsü\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\kaize\Desktop\CSharpEgitimKampi\07_Foreach_Döngüsü\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\kaize\Desktop\CSharpEgitimKampi\07_Foreach_Döngüsü\bin\Debug\07_Foreach_Döngüsü.exe.config
+C:\Users\kaize\Desktop\CSharpEgitimKampi\07_Foreach_Döngüsü\bin\Debug\07_Foreach_Döngüsü.exe
+C:\Users\kaize\Desktop\CSharpEgitimKampi\07_Foreach_Döngüsü\bin\Debug\07_Foreach_Döngüsü.pdb
+C:\Users\kaize\Desktop\CSharpEgitimKampi\07_Foreach_Döngüsü\obj\Debug\07_Foreach_Döngüsü.exe
+C:\Users\kaize\Desktop\CSharpEgitimKampi\07_Foreach_Döngüsü\obj\Debug\07_Foreach_Döngüsü.pdb
