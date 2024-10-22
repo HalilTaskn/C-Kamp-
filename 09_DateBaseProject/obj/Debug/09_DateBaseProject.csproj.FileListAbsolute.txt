@@ -1,0 +1,7 @@
+C:\Users\kaize\Desktop\CSharpEgitimKampi\09_DateBaseProject\bin\Debug\09_DateBaseProject.exe.config
+C:\Users\kaize\Desktop\CSharpEgitimKampi\09_DateBaseProject\bin\Debug\09_DateBaseProject.exe
+C:\Users\kaize\Desktop\CSharpEgitimKampi\09_DateBaseProject\bin\Debug\09_DateBaseProject.pdb
+C:\Users\kaize\Desktop\CSharpEgitimKampi\09_DateBaseProject\obj\Debug\09_DateBaseProject.csproj.AssemblyReference.cache
+C:\Users\kaize\Desktop\CSharpEgitimKampi\09_DateBaseProject\obj\Debug\09_DateBaseProject.csproj.CoreCompileInputs.cache
+C:\Users\kaize\Desktop\CSharpEgitimKampi\09_DateBaseProject\obj\Debug\09_DateBaseProject.exe
+C:\Users\kaize\Desktop\CSharpEgitimKampi\09_DateBaseProject\obj\Debug\09_DateBaseProject.pdb
