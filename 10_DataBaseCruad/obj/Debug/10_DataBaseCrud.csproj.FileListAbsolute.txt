@@ -1,0 +1,7 @@
+C:\Users\kaize\Desktop\CSharpEgitimKampi\10_DataBaseCruad\bin\Debug\10_DataBaseCruad.exe.config
+C:\Users\kaize\Desktop\CSharpEgitimKampi\10_DataBaseCruad\bin\Debug\10_DataBaseCruad.exe
+C:\Users\kaize\Desktop\CSharpEgitimKampi\10_DataBaseCruad\bin\Debug\10_DataBaseCruad.pdb
+C:\Users\kaize\Desktop\CSharpEgitimKampi\10_DataBaseCruad\obj\Debug\10_DataBaseCrud.csproj.AssemblyReference.cache
+C:\Users\kaize\Desktop\CSharpEgitimKampi\10_DataBaseCruad\obj\Debug\10_DataBaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\kaize\Desktop\CSharpEgitimKampi\10_DataBaseCruad\obj\Debug\10_DataBaseCruad.exe
+C:\Users\kaize\Desktop\CSharpEgitimKampi\10_DataBaseCruad\obj\Debug\10_DataBaseCruad.pdb
