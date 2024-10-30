@@ -59,5 +59,20 @@ Bu kamp sayesinde c# dilinde ilerleme kaydettim. Bana c# temellerini atmamda yar
 
 
 
+                                                        🎞️ 9.Proje Sql 🎞️
+Sql ile ilk bağlantımızı gerçekleştiriyorum. C# ile yazmış olduğum değerleri sql bağlantısı kurarak console ile sql de veriye yükleme yapıyorum.
+
+
+
+                                                        🎞️ 10.Proje Sql-2🎞️  
+Sql bağlantısında tablolar üzerine veri aktarımları yapıyorum.Yapmış olduğumuz örnekte     ufak bir menü hazıralama güncelleme silme işlemleri uyguladık.
+
+
+
+                                                        🗄️11.Proje LayeredArchitecture🗄️
+ LayeredArchitecture (Katmanlı Mimari) ile ilgili bir giriş gerçekleştirdik. Ufak olarak mimamrı kurduk ve işlem öncesi iç hazırlıklarını gerçekleştirdik.                                                
+
+
+
 
  
